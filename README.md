@@ -11,7 +11,7 @@ Bunnings - Add Product to Wish List
 
 2.Open this Project in Visual Studio 
 
-3.Build and Run the Test from Test Explore
+3.Build and Run the Test from Test Explorer
 
 ## It provides following features:
 
