@@ -32,6 +32,9 @@ Bunnings - Add Product to Wish List
 ##Current Versions:
 
 Visual Studio : 2015
+
 Selenium WebDriver : 3.141.0
+
 Specflow : 3.0.220
+
 Nunit :3.10.0
